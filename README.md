@@ -38,3 +38,5 @@ This project is smart door automatic intelligent system using black pill STM32F4
 | 13 | Jumper wires | Many | Electrical jumper connection |
 | 14 | External 5V supply | 1 | External 5V supply for servo motor |
 | 15 | USB cable | 1 | Power/programming connection |
+
+
